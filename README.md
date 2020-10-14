@@ -1,7 +1,7 @@
 # OpenArxiv
 
 A simple python script(hack) to extract latest `Arxiv Papers with Open Source Code` in your favorite topic of interest.
-Currently implemented for a combination of Software Engineering(SE) and Machine Learning(ML)/Artificial Intelligence(AI) and results hosted @ [manishshettym/openarxiv](https:manishshettm.github.io/openarxiv.html)
+Currently implemented for a combination of Software Engineering(SE) and Machine Learning(ML)/Artificial Intelligence(AI) and results hosted @ [manishshettym/openarxiv](https://manishshettym.github.io/openarxiv.html)
 
 ### Credits/References
 <img align="right" src="https://miro.medium.com/max/3192/0*SNH9LTObVJWzVtzA" width="40%"></img>
