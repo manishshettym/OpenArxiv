@@ -1,0 +1,149 @@
+{
+    "response": [
+        {
+            "index": "0",
+            "Title": "Adversarial Examples for Models of Code",
+            "Links": "https://paperswithcode.com/paper/adversarial-examples-for-models-of-code"
+        },
+        {
+            "index": "1",
+            "Title": "Contrastive Code Representation Learning",
+            "Links": "https://paperswithcode.com/paper/contrastive-code-representation-learning"
+        },
+        {
+            "index": "2",
+            "Title": "Unsupervised Translation of Programming Languages",
+            "Links": "https://paperswithcode.com/paper/unsupervised-translation-of-programming"
+        },
+        {
+            "index": "3",
+            "Title": "CoNCRA: A Convolutional Neural Network Code Retrieval Approach",
+            "Links": "https://paperswithcode.com/paper/concra-a-convolutional-neural-network-code"
+        },
+        {
+            "index": "4",
+            "Title": "Adversarial Robustness for Code",
+            "Links": "https://paperswithcode.com/paper/adversarial-robustness-for-code"
+        },
+        {
+            "index": "5",
+            "Title": "A Fortran-Keras Deep Learning Bridge for Scientific Computing",
+            "Links": "https://paperswithcode.com/paper/a-fortran-keras-deep-learning-bridge-for"
+        },
+        {
+            "index": "6",
+            "Title": "An Autonomous Performance Testing Framework using Self-Adaptive Fuzzy  Reinforcement Learning",
+            "Links": "https://paperswithcode.com/paper/an-autonomous-performance-testing-framework"
+        },
+        {
+            "index": "7",
+            "Title": "Structural Language Models of Code",
+            "Links": "https://paperswithcode.com/paper/structural-language-models-for-any-code"
+        },
+        {
+            "index": "8",
+            "Title": "TF-Coder: Program Synthesis for Tensor Manipulations",
+            "Links": "https://paperswithcode.com/paper/tf-coder-program-synthesis-for-tensor"
+        },
+        {
+            "index": "9",
+            "Title": "EVA: An Encrypted Vector Arithmetic Language and Compiler for Efficient  Homomorphic Computation",
+            "Links": "https://paperswithcode.com/paper/eva-an-encrypted-vector-arithmetic-language"
+        },
+        {
+            "index": "10",
+            "Title": "Neural Execution Engines: Learning to Execute Subroutines",
+            "Links": "https://paperswithcode.com/paper/neural-execution-engines-learning-to-execute"
+        },
+        {
+            "index": "11",
+            "Title": "ConEx: Efficient Exploration of Big-Data System Configurations for  Better Performance",
+            "Links": "https://paperswithcode.com/paper/conex-efficient-exploration-of-big-data"
+        },
+        {
+            "index": "12",
+            "Title": "CodeSearchNet Challenge: Evaluating the State of Semantic Code Search",
+            "Links": "https://paperswithcode.com/paper/codesearchnet-challenge-evaluating-the-state"
+        },
+        {
+            "index": "13",
+            "Title": "Differentiate Everything with a Reversible Domain-Specific Language",
+            "Links": "https://paperswithcode.com/paper/differentiate-everything-with-a-reversible"
+        },
+        {
+            "index": "14",
+            "Title": "BreastScreening: On the Use of Multi-Modality in Medical Imaging  Diagnosis",
+            "Links": "https://paperswithcode.com/paper/breastscreening-on-the-use-of-multi-modality"
+        },
+        {
+            "index": "15",
+            "Title": "Neural Reverse Engineering of Stripped Binaries",
+            "Links": "https://paperswithcode.com/paper/neural-reverse-engineering-of-stripped"
+        },
+        {
+            "index": "16",
+            "Title": "Structured Neural Summarization",
+            "Links": "https://paperswithcode.com/paper/structured-neural-summarization"
+        },
+        {
+            "index": "17",
+            "Title": "A Transformer-based Approach for Source Code Summarization",
+            "Links": "https://paperswithcode.com/paper/a-transformer-based-approach-for-source-code"
+        },
+        {
+            "index": "18",
+            "Title": "The Machine Learning Bazaar: Harnessing the ML Ecosystem for Effective  System Development",
+            "Links": "https://paperswithcode.com/paper/the-machine-learning-bazaar-harnessing-the-ml"
+        },
+        {
+            "index": "19",
+            "Title": "Improved Code Summarization via a Graph Neural Network",
+            "Links": "https://paperswithcode.com/paper/improved-code-summarization-via-a-graph"
+        },
+        {
+            "index": "20",
+            "Title": "Cross-Domain Ambiguity Detection using Linear Transformation of Word  Embedding Spaces",
+            "Links": "https://paperswithcode.com/paper/cross-domain-ambiguity-detection-using-linear"
+        },
+        {
+            "index": "21",
+            "Title": "ProGraML: Graph-based Deep Learning for Program Optimization and  Analysis",
+            "Links": "https://paperswithcode.com/paper/programl-graph-based-deep-learning-for"
+        },
+        {
+            "index": "22",
+            "Title": "CrypTFlow: Secure TensorFlow Inference",
+            "Links": "https://paperswithcode.com/paper/cryptflow-secure-tensorflow-inference"
+        },
+        {
+            "index": "23",
+            "Title": "TensorFlow Quantum: A Software Framework for Quantum Machine Learning",
+            "Links": "https://paperswithcode.com/paper/tensorflow-quantum-a-software-framework-for"
+        },
+        {
+            "index": "24",
+            "Title": "MultiVerse: Causal Reasoning using Importance Sampling in Probabilistic  Programming",
+            "Links": "https://paperswithcode.com/paper/multiverse-causal-reasoning-using-importance"
+        },
+        {
+            "index": "25",
+            "Title": "CodeReef: an open platform for portable MLOps, reusable automation  actions and reproducible benchmarking",
+            "Links": "https://paperswithcode.com/paper/codereef-an-open-platform-for-portable-mlops"
+        },
+        {
+            "index": "26",
+            "Title": "Joint Distributions for TensorFlow Probability",
+            "Links": "https://paperswithcode.com/paper/joint-distributions-for-tensorflow"
+        },
+        {
+            "index": "27",
+            "Title": "Composable Effects for Flexible and Accelerated Probabilistic  Programming in NumPyro",
+            "Links": "https://paperswithcode.com/paper/composable-effects-for-flexible-and"
+        },
+        {
+            "index": "28",
+            "Title": "TreeGen: A Tree-Based Transformer Architecture for Code Generation",
+            "Links": "https://paperswithcode.com/paper/treegen-a-tree-based-transformer-architecture"
+        }
+    ]
+}
